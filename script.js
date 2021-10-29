@@ -23,11 +23,6 @@ let iters = 0;
 //Do każdego przedmiotu w koszyku dodaj napis premium, wykorzystaj forEach
 const checkoutItems = ["telewizor","marchewka","perfumy","klawiatura"];
 
-checkoutItems.forEach(item => {
-    item = `${item} premium`;
-    console.log(item);
-})
-
 
 
 //5.
